@@ -1,0 +1,30 @@
+# Backend
+backend/build/
+backend/.gradle/
+backend/out/
+backend/logs/
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Database
+*.sql~
+.env.example
